@@ -1,0 +1,44 @@
+Autorzy: Paulina Gałan i Aleksandra Wnuk
+
+Title:                               Type:   Rate:  Genre:
+
+"Game of Thrones"                    series  8.9    Fantasy
+"Breaking Bad"                       series  8.8    Crime
+"Narcos"                             series  8.6    Crime
+"Vikings"                            series  8.5    Action
+"Kimi no na wa."                     movie   8.3    Animation
+"Dr House"                           series  8.2    Drama
+"Friends"                            series  8.2    Comedy
+"Anne with an 'E'"                   series  8.1    Drama
+"Sense8"                             series  8.0    Sci-Fi
+"Isle of Dogs"                       movie   7.9    Animation
+"The Walking Dead"                   series  7.9    other
+"Top Hat"                            movie   7.8    Musical
+"The Greatest Showman"               movie   7.7    Musical
+"The 100"                            series  7.7    Sci-Fi
+"The Vampire Diaries"                series  7.7    Fantasy
+"The Phantom of the Opera"           movie   7.6    Musical
+"Sing Street"                        movie   7.5    Music
+"Fantastic Mr. Fox"                  movie   7.5    Animation
+"Corpse Bride"                       movie   7.5    Animation
+"Pocahontas"                         movie   7.5    Animation
+"Neko no ongaeshi"                   movie   7.3    Animation
+"Misja Afganistan"                   series  7.3    War
+"Beetlejuice"                        movie   7.2    Comedy
+"Perfect Sense"                      movie   7.1    Drama
+"3%"                                 series  7.1    Sci-Fi
+"Phantom Thread"                     movie   7.0    Drama
+"Married with Children"              series  6.6    Comedy
+"Shadowhunters"                      series  6.4    Fantasy
+"How to Talk to Girls at Parties"    movie   6.2    Comedy
+"Annihilation"                       movie   6.1    Sci-Fi
+
+ Summary 
+
+Items count:30
+USA movies count: 11
+Sci-Fi series count: 3
+Items for age under 15 count: 14
+Average movies rate: 7.346666666666666
+Average series rate: 7.866666666666666
+Creation date: Created in 2018
